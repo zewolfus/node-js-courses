@@ -1,0 +1,5 @@
+npm install -g node-inspector 
+
+node inspector --web-port=5500
+
+node --debug-brk app.js

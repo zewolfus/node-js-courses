@@ -1,0 +1,21 @@
+npm -v (version control)
+
+npm install npm -g (node module kur -g (global = sistem içine))
+
+npm help
+
+npm install <paket name>
+
+npm install express (dosya içine)
+
+npm install express -g (global)
+
+npm install express --save (json dosyasına kaydet)
+
+npm update <paket name> (günselleme yapar )
+
+npm update axpress
+
+npm update (hepsini günceller)
+
+npm uninstall <paket name>

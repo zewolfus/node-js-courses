@@ -1,0 +1,23 @@
+
+
+ms sql server       mssgl       npm install mssql
+
+oracle              oracledb    npm install oracledb
+
+mysql               mysql       npm install mysql
+
+postgresql          pg      npm install pg
+
+sqlite      node-sqlite3        npm install node-sqlite
+
+
+mongodb     npm install mongodb
+
+cassandra   npm install cassandra-driver
+
+leveldb     npm install level levelup leveldown
+
+RavenDB	    ravendb	    npm install ravendb
+Neo4j	    neo4j	    npm install neo4j
+Redis	    redis	    npm install redis
+CouchDB	    nano	    npm install nano
